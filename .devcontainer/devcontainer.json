@@ -1,0 +1,11 @@
+{
+    "image": "instrumentisto/flutter",
+    "privileged": true,
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Dart-Code.flutter"
+            ]
+        }
+    }
+}
